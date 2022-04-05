@@ -1,7 +1,7 @@
 
 # Fundraising Ethereum Campaign
 A decentralised web application where a user can either create fundraising campaigns to 
-receive donations in ether or donate to some existing campaigns.
+receive donations in ether or donate to some existing campaigns. It is deployed upon Rinkeby Ethereum testnet.
 
 ## Detailed description and working:
 * A user first needs to login to his metamask account.
